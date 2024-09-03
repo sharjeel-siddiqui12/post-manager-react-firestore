@@ -1,6 +1,5 @@
 # Project Name
-
-Post Manager React Firestore
+Post Manager using React and Firestore
 
 ## Description
 
@@ -42,6 +41,7 @@ This project is a post manager application built using React and Firestore. It a
 - React
 - Firestore
 - Firebase Hosting
+- Tailwind CSS
 
 ## Contributing
 
@@ -50,3 +50,4 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
